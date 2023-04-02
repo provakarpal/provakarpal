@@ -26,7 +26,7 @@
 <a href="https://fb.com/provakarguddu.pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="provakarguddu.pal" height="30" width="40" /></a>
 <a href="https://instagram.com/provakarpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="provakarpal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/provakarpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="provakarpal" height="30" width="40" /></a>
-<a href="business.provakar@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/410/105/png-transparent-gmail-logo-g-suite-gmail-computer-icons-google-email-e-mail-angle-text-rectangle.png" alt="business.provakar@gmail.com" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwfbGzGWkpNRzGpWGHPlXkZhJBSlmDMcSbwvRKqQQdKvQCCxBWFXGLgxtlKfCfTMQcqjvg" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/410/105/png-transparent-gmail-logo-g-suite-gmail-computer-icons-google-email-e-mail-angle-text-rectangle.png" alt="business.provakar@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
