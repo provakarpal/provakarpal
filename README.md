@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cqS8iU3vSu-HS9ebDljbgKadEx7OkwmG/view](https://drive.google.com/file/d/1cqS8iU3vSu-HS9ebDljbgKadEx7OkwmG/view)
 
-- ⚡ Fun fact about me **- I enjoy engaging in athletic activities like dancing, calisthenics, video games, playing football ⚽💪🏼🤸🏻, etc. Apart from these, I love photo/video-graphy, editing📸, graphic designing and I have good knowledge in Mathematics📐 , android/computer bios/hardwares💻, search engine optimization and unreal engine.**
+- ⚡ Fun fact about me **- I like to be involved in all kinds of athletic activities ⚽💪🏼🤸🏻. Apart from that, I love photo/video-graphy📸 and I am well-versed in all Adobe softwares, Mathematics📐, android/computer bios/hardwares💻 and search engine optimization.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
