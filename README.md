@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Masters of Computer Science.**
 
-- 📝 I occasionally write articles on [https://twitter.com/ProvakarPal](https://twitter.com/ProvakarPal)
-
 - 💬 Ask me about **Blockchain, web3.**
 
 - 📫 How to reach me **business.provakar@gmail.com**
