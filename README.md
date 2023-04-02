@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/provakarpal" target="blank"><img src="https://img.shields.io/twitter/follow/provakarpal?logo=twitter&style=for-the-badge" alt="provakarpal" /></a> </p>
 
-- 🌱 I’m currently learning **Masters of Computer Science.**
+- 🌱 I'm presently pursuing a Master's degree in computer science.
 
 - 💬 Ask me about **Blockchain, web3.**
 
