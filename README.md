@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=provakarpal1&label=Profile%20views&color=0e75b6&style=flat" alt="provakarpal1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/provakarpal" target="blank"><img src="https://img.shields.io/twitter/follow/provakarpal?logo=twitter&style=for-the-badge" alt="provakarguddu.pal" /></a> </p>
 
 - 🌱 I'm presently pursuing a Master's degree in computer science.
 
