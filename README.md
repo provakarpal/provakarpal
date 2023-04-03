@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences and achievements - [https://drive.google.com/file/d/1cqS8iU3vSu-HS9ebDljbgKadEx7OkwmG/view](https://drive.google.com/file/d/1cqS8iU3vSu-HS9ebDljbgKadEx7OkwmG/view)
 
-- ⚡ Fun fact about me **- I like to be involved in all kinds of athletic activities and games ⚽💪🏼🤸🏻. Apart from that, I love photo/video-graphy📸,and I am well-versed in all Adobe softwares (photo/video editing, animation, vfx, graphic designing, building website), Mathematics📐, android/computer--bios/hardwares💻 and search engine optimization.**
+- ⚡ Fun fact about me **- I like to be involved in all kinds of athletic activities and games ⚽💪🏼🤸🏻. Apart from that, I love photo/video-graphy📸,and I am well-versed in all Adobe softwares (photo/video editing, animation, vfx, graphic designing, building website etc.), Mathematics📐, android/computer--bios/hardwares💻 and search engine optimization.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
