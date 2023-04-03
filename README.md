@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)
 <h1 align="center">Hi 👋, I'm Provakar Pal</h1>
-<h3 align="center">A passionate blockchain, backend developer and content creator from India</h3>
+<h3 align="center">A passionate blockchain, back-end developer and content creator from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=provakarpal1&label=Profile%20views&color=0e75b6&style=flat" alt="provakarpal1" /> </p>
